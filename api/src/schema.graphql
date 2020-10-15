@@ -1,0 +1,47 @@
+type Property {
+   _id: Long!
+   AddressL_1: String
+   AddressLin: String
+   Assessment: String
+   COUNTYCD: Int!
+   CareOfTaxp: String
+   Certificat: String
+   CityStateZ: String
+   Continuous: Float!
+   CountyAbbr: String!
+   CountyName: String!
+   DbaName: String
+   FallowAcre: Float!
+   FarmsiteAc: Float!
+   ForestAcre: Float!
+   GISAcres: Float!
+   GrazingAcr: Float!
+   IrrigatedA: Float!
+   LegalDescr: String
+   LevyDistri: String
+   NonQualAcr: Float!
+   OwnerAdd_1: String
+   OwnerAdd_2: String
+   OwnerAddre: String
+   OwnerCity: String
+   OwnerName: String
+   OwnerState: String
+   OwnerZipCo: String
+   PropType: String
+   PropertyID: Int!
+   Range: String
+   SHAPE_Area: Float!
+   SHAPE_Leng: Float!
+   Section: String
+   Subdivisio: String
+   TaxYear: Int!
+   TotalAcres: Float!
+   TotalBuild: Int!
+   TotalLandV: Int!
+   TotalValue: Int!
+   Township: String
+   WildHayAcr: Float!
+   id: String!
+}
+
+
